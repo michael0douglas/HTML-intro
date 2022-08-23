@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AULAAAA MIMI</title>
+    <title>AULA DE HTML</title>
 </head>
 <body style="background-color: green; color: aliceblue;">
 <div id="header">  
